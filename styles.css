@@ -49,19 +49,23 @@ h2{
     border-bottom-right-radius: 10px;
 }
 
-#sec-sect-p{
-    width: 80%;
-    line-height: 22px;
+ul{
+    padding-left: 0;
+}
+
+li{
+    list-style: none;
 }
 
 span{
     font-size: 30px;
+    font-weight: 700;
     margin-right: 13px;
     font-weight: normal;
 }
 
 .amount-p{
-    font-weight: 100;
+    font-weight: 400;
 }
 
 button{
